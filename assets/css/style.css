@@ -211,10 +211,20 @@ h2 {
         left: 0px;
     }
 
+    #navLinks {
+        float: none;
+        margin-left: 80px;
+    }
+
     #bio {
         width: 80%;
         margin: auto;
         margin-top: 40px;
+    }
+
+    footer {
+        width: 50%;
+        
     }
 }
 
