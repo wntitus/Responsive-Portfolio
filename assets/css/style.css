@@ -248,6 +248,29 @@ h2 {
 
 @media screen and (max-width:768px) {
 
+    body {
+        width: 768px;
+        margin: auto;
+        float: left;
+    }
+
+    nav {
+        width: 100%;
+        margin: auto;
+    }
+
+    #navLinks {
+        float: none;
+        margin: auto;
+        
+    }
+
+    footer {
+        width: 40%;
+        
+        
+    }
+
 }
 
 @media screen and (max-width:640px) {
