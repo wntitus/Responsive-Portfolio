@@ -274,5 +274,33 @@ h2 {
 }
 
 @media screen and (max-width:640px) {
+    body {
+        width: 640px;
+        margin: auto;
+        float: left;
+    }
+
+    #nav {
+        
+        width: 80%;
+
+    }
+
+    #navLinks {
+        float: left;
+    }
+
+
+    #name {
+        width: 100%;
+        padding: auto;
+        float: left;
+        display: none;
+        
+    }
+
+    #bio {
+        width: 80%;
+    }
 
 }
