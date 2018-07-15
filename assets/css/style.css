@@ -209,6 +209,7 @@ h2 {
     #name {
         top: 0px;
         left: 0px;
+        margin-left: 25px;
     }
 
     #navLinks {
@@ -225,6 +226,16 @@ h2 {
     footer {
         width: 50%;
         
+    }
+
+    #contactBox {
+        width: 80%;
+        margin: auto;
+        margin-top: 40px;
+    }
+
+    #nameInput, #emailInput, #msgInput {
+        width: 95%;
     }
 }
 
